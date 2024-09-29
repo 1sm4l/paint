@@ -2,7 +2,7 @@ import pygame   #imports pygame
 pygame.init()   #initialises it
 
 
-fps = 300  #frame rate
+fps = 60  #frame rate
 timer = pygame.time.Clock()   #clock speed
 WIDTH, HEIGHT = 800, 600  #app res
 active_size = 0
