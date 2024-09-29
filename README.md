@@ -8,6 +8,9 @@ POSSIBLE CHANGES TO BE MADE:
 - pencil cursor
 - rgb selector
 - increase resolution
+- User can save their image to a file
+- Add other tools such as a fill tool
+- Try to come up with your own features
 
 
 
