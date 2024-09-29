@@ -1,6 +1,6 @@
 jus copy and paste code into a program and itll run.
 
-
+if you want smoother line then increase fps variable
 
 POSSIBLE CHANGES TO BE MADE:
 - hotkeys
