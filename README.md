@@ -4,7 +4,7 @@ if you want smoother line then increase fps variable
 
 POSSIBLE CHANGES TO BE MADE:
 - hotkeys
-- clear button
+- clear button [DONE]
 - pencil cursor
 - rgb selector
 - increase resolution
