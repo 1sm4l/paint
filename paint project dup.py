@@ -1,7 +1,7 @@
 import pygame  # imports pygame 
 pygame.init()  # initializes it
 
-fps = 360  # frame rate
+fps = 60  # frame rate
 timer = pygame.time.Clock()  # clock speed
 WIDTH, HEIGHT = 800, 600  # app resolution
 active_size = 0
@@ -70,7 +70,7 @@ def draw_menu(size, colour):
     pygame.draw.rect(screen, "black", [WIDTH - 200, 10, 60, 50], 3)  # border for Clear box
 
     # Render "Clear" text and blit onto the clear box
-    clear_text = font.render("Clear", True, "black")
+    clear_text = font.render("Clear", True, "black")   # True is used for anti-aliasing
     screen.blit(clear_text, (WIDTH - 194, 20))  # position text within the box
 
     return brush_list, colour_rect, rgb_list, clear_box, settings_box
@@ -87,6 +87,7 @@ def draw_settings():
     close_button = pygame.draw.rect(screen, "black", [285, 425, 225, 50])
     
 
+    # render text for boxes and put it on screen
     settings_title = title_font.render("Settings:", True, "black")
     save_text = settings_font.render("Save", True, "white")
     fps_text = settings_font.render("Load", True, "white")
