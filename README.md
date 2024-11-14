@@ -2,7 +2,8 @@ jus copy and paste code into a program and itll run.
 
 PUT THE IMAGES INTO UR CODE THINGY LIKE THIS
 
-![image](https://github.com/user-attachments/assets/bee1d958-2325-4e09-8c50-abbcc17ccba1)
+![image](https://github.com/user-attachments/assets/8f6cf232-f847-49fd-8ea8-139adc081932)
+
 
 
 POSSIBLE CHANGES TO BE MADE:
