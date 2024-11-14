@@ -15,6 +15,6 @@ POSSIBLE CHANGES TO BE MADE:
 - increase resolution [long so no]
 - User can save their image to a file [DONE]
 - Add other tools such as a fill tool [not doing]
-- Try to come up with your own features
+- Try to come up with your own features [no]
 
 
